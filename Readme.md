@@ -1,4 +1,4 @@
 # Grid Layout Menu
-## Demo Image: 
+## Demo: 
 
 ![alt text](demo.gif)
